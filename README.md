@@ -1,46 +1,33 @@
-# 👋 أهلاً بك، أنا يوسف عبد العظيم | Youcef Abdalazem
+# 👋 أنا يوسف عبد العظيم | AI Expert & Automation Architect
 
-### 🚀 عني (About Me)
-أنا مطور ويب (Full-Stack Developer) وشغوف ببناء الحلول البرمجية التي تدمج بين الويب وأتمتة المهام الذكية. أركز حالياً على تطوير تطبيقات قوية باستخدام Laravel، وربط الأنظمة المختلفة باستخدام أدوات الأتمتة الحديثة.
-
-- 🏗️ أعمل حالياً على تطوير تطبيقات باستخدام **Laravel**.
-- 🤖 مهتم جداً بـ **Workflow Automation** واستخدام أدوات مثل **n8n**.
-- 🌐 خبير في التعامل مع السيرفرات المحلية وتوصيلها بالإنترنت (Cloudflare Tunnels, Pinggy).
-- 💡 مؤسس وكالة **Zad** للتسويق والخدمات الرقمية.
+أطوع الذكاء الاصطناعي لبناء المستقبل. متخصص في دمج الـ AI داخل دورة حياة تطوير البرمجيات وأتمتة الأعمال.
 
 ---
 
-### 🛠️ المهارات التقنية (Tech Stack)
+### 🛠️ AI Mastery Stack
 
-| المجال | التقنيات |
+| التصنيف | الأدوات التي أتقنها |
 | :--- | :--- |
-| **Backend** | PHP, Laravel, MySQL |
-| **Frontend** | Blade, JavaScript, CSS, Bootstrap |
-| **Automation** | n8n, Telegram Bots, AI Integration (LLMs) |
-| **DevOps & Tools** | Git, GitHub, Cloudflare, WordPress, Hostinger |
+| **AI Code Editors** | Cursor (The Ultimate AI IDE), Claude Dev (Cline), GitHub Copilot |
+| **No-Code AI App Builders** | Lovable, Replit Agent, Bolt.new, v0.dev |
+| **AI Workspaces** | Cursor Workspaces, Claude Projects, ChatGPT Canvas |
+| **Automation & LLMs** | n8n (AI Workflows), Claude 3.5 Sonnet, GPT-4o, DeepSeek |
+| **AI Deployment** | Cloudflare Tunnels, LocalTunnel, Pinggy |
 
 ---
 
-### 📈 مشاريعي الأخيرة (Featured Projects)
-
-#### 🔹 [Zad Agency Site]
-موقع وكالة "زاد" للهوية التجارية والتسويق الرقمي، تم بناؤه للتركيز على تجربة المستخدم والهوية البصرية.
-
-#### 🔹 [Telegram-AI Automation Bot]
-بوت تليجرام متكامل مربوط بـ LLM عبر ن8ن (n8n)، يقوم بمعالجة البيانات والرد الآلي الذكي.
-
-#### 🔹 [Laravel Web App]
-تطبيق ويب متكامل يعتمد على إطار عمل لارافيل لإدارة العمليات البرمجية المعقدة.
+### 🚀 باختصار (In Brief)
+* 🏗️ أبني تطبيقات ويب متكاملة باستخدام **Laravel** مدعومة بالـ AI.
+* 🤖 أصمم مسارات عمل (Workflows) ذكية تربط بين **n8n** والـ **LLMs**.
+* 🎨 مؤسس وكالة **Zad**، حيث يلتقي الإبداع البشري مع ذكاء الآلة.
+* 🇸🇦 مقيم في المملكة العربية السعودية.
 
 ---
 
-### 📫 تواصل معي (Connect with me)
-- **Email:** Youcefabdalazem@gmail.com
-- **LinkedIn:** [رابط حسابك على لينكد إن]
-- **Location:** Saudi Arabia 🇸🇦
+### ⚡ GitHub Stats
+![Youcef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youcefabdalazem&show_icons=true&theme=tokyonight)
 
 ---
 
-### ⚡ إحصائيات جيت هاب (GitHub Stats)
-![Youcef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youcefabdalazem&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youcefabdalazem&layout=compact&theme=radical)
+### 📫 Let's Connect
+**Email:** Youcefabdalazem@gmail.com
